@@ -1,5 +1,6 @@
-# Experiments for the paper "Data sharing games" (to appear soon)
+# Data Sharing Games
 
+Experiments for the paper "Data sharing games" (to appear soon).
 Code mantained by Roi Naveiro ([@roinaveiro](https://github.com/roinaveiro)) and Víctor Gallego ([@vicgalle](https://github.com/roinaveiro))
 
 There are two main notebooks:
